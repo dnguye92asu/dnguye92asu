@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dnguye92asu
+- 👋 Hi, I’m David Nguyen
 - 👀 I’m interested in AI, Machine Learning, UI/UX Design and Robotics
 - 🌱 I’m currently learning CS (Software Engineering)
 
